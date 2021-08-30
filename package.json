@@ -20,7 +20,7 @@
     "electron": "^11.1.1"
   },
   "dependencies": {
-    "electron-rebuild": "^2.3.4",
+    "electron-rebuild": "^3.2.2",
     "iohook": "^0.7.2",
     "robotjs": "^0.6.0"
   },
